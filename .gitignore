@@ -1,0 +1,6 @@
+# Ignore e2e folder
+project/
+
+# Ignore Y and Y.pub files
+Y
+Y.pub
